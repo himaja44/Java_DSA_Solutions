@@ -1,5 +1,4 @@
-package Recursions;
-
+//package Recursions;
 
 public class FactorialUsingRecursion {
 
