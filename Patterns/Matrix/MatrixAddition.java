@@ -1,4 +1,4 @@
-package Patterns.Matrix;
+package Matrix;
 public class MatrixAddition {
 
     public static void main(String[] args) {
