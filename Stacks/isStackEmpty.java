@@ -1,4 +1,4 @@
-public class IsStackEmpty {
+public class isStackEmpty {
 
     static int top = -1;
 
