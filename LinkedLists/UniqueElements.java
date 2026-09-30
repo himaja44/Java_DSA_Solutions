@@ -1,3 +1,5 @@
+package LinkedLists;
+
 import java.util.HashSet;
 
 public class UniqueElements {
