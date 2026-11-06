@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class SortArrayList {
+public class SortOnArrayList {
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
 
